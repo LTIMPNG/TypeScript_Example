@@ -15,11 +15,11 @@ on:
   push:
     branches: [ "main" ]
     paths-ignore:
-      - src/data/static/codefixes/
+      - src/data/static/codefixes/*
   pull_request:
     branches: [ "main" ]
     paths-ignore:
-      - src/data/static/codefixes/
+      - src/data/static/codefixes/*
   #schedule:
     #- cron: '25 15 * * 3'
 
