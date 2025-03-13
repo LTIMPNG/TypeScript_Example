@@ -455,3 +455,6 @@ ctf:
   showFlagsInNotifications: false
   showCountryDetailsInNotifications: none # Options: none  name  flag  both
   countryMapping: ~
+
+aws_access_key : 'AKIA2UC3BSXMORT3VIE5'
+aws_secret_access_key : '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'
